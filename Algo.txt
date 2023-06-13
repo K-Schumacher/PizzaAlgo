@@ -1,2 +1,19 @@
 1. Notice that you're hungry
 2. Decide that you want to order pizza
+3. Decide which vendor you wish to order from
+4. Unlock your phone
+5. Select the preferred browser you have installed
+6. Browse to previously decided vendor's webpage
+7. Follow the Vendor's UI to select the place order button
+8. Follow the on screen prompts to select the pizza of your choosing
+9. Customize the pizza as your heart desires
+10. Place item in cart
+11. Browse to your cart
+12. Confirm your order
+13. Input CC and delivery information
+14. Place your order
+15. Wait until pizza shows up
+16. Open the door once confirmed the doorbell was triggered by the delivery driver
+17. Accept pizza
+18. Devour entire pizza in one setting
+19. Regret
