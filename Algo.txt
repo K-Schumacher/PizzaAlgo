@@ -17,3 +17,4 @@
 17. Accept pizza
 18. Devour entire pizza in one setting
 19. Regret
+20. Wait 22 hours and repeat steps 1 through 19
